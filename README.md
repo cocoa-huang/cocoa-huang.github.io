@@ -1,2 +1,2 @@
 # cocoa-huang.github.io
-Personal website
+Personal website GitHub Pages repo
